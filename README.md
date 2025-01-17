@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abandonedmonk&show_icons=true&locale=en&layout=compact" alt="abandonedmonk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abandonedmonk&" alt="abandonedmonk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abandonedmonk&" alt="abandonedmonk" /></p> 
